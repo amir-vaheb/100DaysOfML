@@ -8,14 +8,19 @@
 
 **Link of Work:** [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
 
-## Day 2 : Jul 8 , 2018
+## Day 2 : July 8 , 2018
 
 **Today's Progress** : 
 
 **Thoughts** : 
 
-
 **Link of Work:**   
 
-## Day 3 : Jul 9 , 2018
+## Day 3 : July 9 , 2018
 
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Link of Work:**  
