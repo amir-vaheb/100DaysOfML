@@ -10,11 +10,11 @@
 
 ## Day 2 : July 8 , 2018
 
-**Today's Progress** : 
+**Today's Progress** : I have completed Google ML crash course upto First Steps with TensorFlow .
 
-**Thoughts** : 
+**Thoughts** :  It is good for a beginner.
 
-**Link of Work:**   
+**Link of Work:**   [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
 
 ## Day 3 : July 9 , 2018
 
