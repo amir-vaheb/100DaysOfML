@@ -24,4 +24,5 @@
 **Thoughts** : I have learned basic information about Keras.  
 
 **Link of Work:**  [Keras in motion](https://livevideo.manning.com/module/19_1_3/keras-in-motion/installation-and-basics/fitting-lines?)
+
 [STC Speaker Recognition System for the NIST i-Vector Challenge](https://www.superlectures.com/odyssey2014/stc-speaker-recognition-system-for-the-nist-i-vector-challenge)
