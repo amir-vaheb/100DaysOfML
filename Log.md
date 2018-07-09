@@ -19,8 +19,9 @@
 ## Day 3 : July 9 , 2018
 
 
-**Today's Progress** : 
+**Today's Progress** : I have completed Keras in motion course upto Fitting Lines . I also watched some videos about speaker verificaion algorithm. (i-vector)
 
-**Thoughts** : 
+**Thoughts** : I have learned basic information about Keras.  
 
-**Link of Work:**  
+**Link of Work:**  [Keras in motion](https://livevideo.manning.com/module/19_1_3/keras-in-motion/installation-and-basics/fitting-lines?)
+[STC Speaker Recognition System for the NIST i-Vector Challenge](https://www.superlectures.com/odyssey2014/stc-speaker-recognition-system-for-the-nist-i-vector-challenge)
