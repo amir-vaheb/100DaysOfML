@@ -27,6 +27,8 @@
 
 [STC Speaker Recognition System for the NIST i-Vector Challenge](https://www.superlectures.com/odyssey2014/stc-speaker-recognition-system-for-the-nist-i-vector-challenge)
 
+## Day 4 : July 10 , 2018
+
 **Today's Progress** : I have completed Keras in motion course upto Predicting Categories . I also have completed Digital Signal Processing upto Discrete-time Signals.
 
 **Thoughts** : I have learned basic information about Keras.  
@@ -34,3 +36,5 @@
 **Link of Work:** [Keras in motion](https://livevideo.manning.com/module/19_1_5/keras-in-motion/installation-and-basics/predicting-categories?)
 
 [The Digital Signal Processing Course](https://www.coursera.org/learn/dsp/lecture/sWofV/1-2-a-discrete-time-signals)
+
+## Day 5 : July 11 , 2018
