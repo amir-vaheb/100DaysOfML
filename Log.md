@@ -38,3 +38,24 @@
 [The Digital Signal Processing Course](https://www.coursera.org/learn/dsp/lecture/sWofV/1-2-a-discrete-time-signals)
 
 ## Day 5 : July 11 , 2018
+
+**Today's Progress** : I have evaluated solutions of the Ubaar Competition in Kaggle.
+
+**Thoughts** : There are some good solutions for this competition, and I can learn many things from it. 
+
+**Link of Work:** [Winning Solution of the Ubaar Competition](https://www.kaggle.com/amir1990/winning-solution-of-the-ubaar-competition)
+
+
+## Day 6 : July 12 , 2018
+**Today's Progress** : I have completed Keras in motion course upto Logistic regression in Keras . I also have completed Digital Signal Processing upto The Karplus-Strong algorithm.
+
+
+**Link of Work:** [Keras in motion](https://livevideo.manning.com/module/19_1_6/keras-in-motion/installation-and-basics/logistic-regression-in-keras?)
+
+[The Digital Signal Processing Course](https://www.coursera.org/learn/dsp/lecture/NpNjI/1-3-b-the-karplus-strong-algorithm)
+
+## Day 7 : July 13 , 2018
+**Today's Progress** :
+
+
+**Link of Work:** 
