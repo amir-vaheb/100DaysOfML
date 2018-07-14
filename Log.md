@@ -61,6 +61,7 @@
 **Link of Work:** [The Digital Signal Processing Course](https://www.coursera.org/learn/dsp/lecture/Z437t/1-4-a-complex-exponentials)
 
 [10 Examples of How to Use Statistical Methods in a Machine Learning Project](https://machinelearningmastery.com/statistical-methods-in-an-applied-machine-learning-project/)
+
 [13 Common Mistakes Amateur Data Scientists Make and How to Avoid Them?](https://www.analyticsvidhya.com/blog/2018/07/13-common-mistakes-aspiring-fresher-data-scientists-make-how-to-avoid-them/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 
 
