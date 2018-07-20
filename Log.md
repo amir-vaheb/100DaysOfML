@@ -72,9 +72,11 @@
 **Link of Work:** [Maximum Likelihood Estimation (MLE)](https://www.youtube.com/watch?v=aHwsEXCk4HA&list=PLD0F06AA0D2E8FFBA&index=22)
 
 ## Day 9 : July 22 , 2018
-**Today's Progress** : I have learned an example of Maximum Likelihood Estimation.
+**Today's Progress** : I have learned an example of Maximum Likelihood Estimation. I also have learned about audio features.
 
 **Link of Work:** [An Introductory Guide to Maximum Likelihood Estimation (with a case study in R)](https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
+
+[Audio features](https://www.coursera.org/lecture/audio-signal-processing/audio-features-ZRurD)
 
 ## Day 10 : July 23 , 2018
 **Today's Progress** : I have completed TensorFlow for Poets Lab in [qwiklab](www.qwiklabs.com) to learn to use Python and TensorFlow to train an image classifier in Google Cloud.
